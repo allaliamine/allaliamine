@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=120&section=header" width="100%"/>
 </div>
 
 ###
@@ -27,10 +27,14 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=allaliamine.allaliamine&left_text=Profile%20Views"  />
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/allaliamine/allaliamine/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+## GitHub stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=allaliamine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
 </div>
 
 ###
@@ -95,10 +99,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/allaliamine/allaliamine/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=80&section=footer" width="100%"/>
 
-###
+</div>
+
+---
