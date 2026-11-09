@@ -1,24 +1,20 @@
-<div data-importer="border">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=120&section=header" width="100%"/>
 
-###
+  # Mohamed Amin ALLALI
+  ### Data & AI Engineer
 
-<div align="center">
-# Mohamed Amin ALLALI
-### Data & AI Engineer
+  *Turning raw data into intelligence, and intelligence into impact.*
 
-*Turning raw data into intelligence, and intelligence into impact.*
-
-<div data-importer="socials" align="center">
-  <a href="https://www.instagram.com/allali.amine/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/m-amin-allali/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+  <div data-importer="socials" align="center">
+    <a href="https://www.instagram.com/allali.amine/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/m-amin-allali/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+  </div>
+  
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=allaliamine.allaliamine&left_text=Profile%20Views"  />
