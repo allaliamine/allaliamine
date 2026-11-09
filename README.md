@@ -1,16 +1,12 @@
 <div data-importer="border">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=120&section=header" width="100%"/>
-</div>
 
 ###
 
-<br clear="both">
+# Mohamed Amin ALLALI
+### Data & AI Engineer
 
-<h1 data-importer="text" align="center">Mohamed Amin ALLALI</h1>
-
-###
-
-<br clear="both">
+*Turning raw data into intelligence, and intelligence into impact.*
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/allali.amine/" target="_blank">
@@ -28,6 +24,13 @@
 </div>
 
 ---
+## About me
+
+I'm a **Data & AI Engineer** specializing in the development of data pipelines, LLM-powered multi-agent systems, and artificial intelligence solutions. Skilled in Data Engineering, Big Data, Machine Learning, and API Development.
+
+- Currently @**TME** - Data & AI Engineering building LLM-powered multi-agent systems, intelligent document processing pipelines, and AI-driven workflows using LangGraph, RAG, FastAPI.
+- Designing scalable ETL pipelines, data architectures, and real-time processing solutions using Python, SQL, Apache Spark, and Kafka.
+- Building and deploying ML solutions, integrating AI models through REST APIs, and automating workflows using Docker, Azure, and CI/CD.
 
 ## GitHub stats
 
