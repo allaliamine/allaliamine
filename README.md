@@ -20,7 +20,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=allaliamine.allaliamine&left_text=Profile%20Views"  />
 </div>
 
-<div align="center">
+<div>
 
 ## About me
 
@@ -29,6 +29,9 @@ I'm a **Data & AI Engineer** specializing in the development of data pipelines, 
 - Currently @**TME** - Data & AI Engineering building LLM-powered multi-agent systems, intelligent document processing pipelines, and AI-driven workflows using LangGraph, RAG, FastAPI.
 - Designing scalable ETL pipelines, data architectures, and real-time processing solutions using Python, SQL, Apache Spark, and Kafka.
 - Building and deploying ML solutions, integrating AI models through REST APIs, and automating workflows using Docker, Azure, and CI/CD.
+
+</div>
+
 
 ## GitHub stats
 
