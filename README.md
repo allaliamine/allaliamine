@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
----
+
 ## About me
 
 I'm a **Data & AI Engineer** specializing in the development of data pipelines, LLM-powered multi-agent systems, and artificial intelligence solutions. Skilled in Data Engineering, Big Data, Machine Learning, and API Development.
