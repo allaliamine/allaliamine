@@ -99,12 +99,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
 
----
+###
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4a7a,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
-
----
