@@ -6,21 +6,28 @@
 
   *Turning raw data into intelligence, and intelligence into impact.*
 
-  <div data-importer="socials" align="center">
-    <a href="https://www.instagram.com/allali.amine/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/m-amin-allali/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-  </div>
-  
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=allaliamine.allaliamine&left_text=Profile%20Views"  />
+<div data-importer="socials" align="center">
+    <div align="center">
+        <a href="https://www.instagram.com/allali.amine/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"  />
+        </a>
+        <a href="https://www.linkedin.com/in/m-amin-allali/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+        </a>
+        <a href="https://allaliamine.github.io/">
+            <img src ="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+        </a>
+    </div>
 </div>
 
-<div>
+<br>
+<div data-importer="profile-views" align="center">
+    <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=allaliamine.allaliamine&left_text=Profile%20Views"  />
+    </div>
+</div>
+
+
+###
 
 ## About me
 
@@ -30,20 +37,12 @@ I'm a **Data & AI Engineer** specializing in the development of data pipelines, 
 - Designing scalable ETL pipelines, data architectures, and real-time processing solutions using Python, SQL, Apache Spark, and Kafka.
 - Building and deploying ML solutions, integrating AI models through REST APIs, and automating workflows using Docker, Azure, and CI/CD.
 
-</div>
 
 
-## GitHub stats
+## Tech Stack
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=allaliamine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img data-importer="image" align="right" height="120" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
 
@@ -103,7 +102,14 @@ I'm a **Data & AI Engineer** specializing in the development of data pipelines, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
 </div>
 
-###
+## GitHub stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=allaliamine&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
 
 <div align="center">
 
