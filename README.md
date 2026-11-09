@@ -3,6 +3,7 @@
 
 ###
 
+<div align="center">
 # Mohamed Amin ALLALI
 ### Data & AI Engineer
 
@@ -23,6 +24,7 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=allaliamine.allaliamine&left_text=Profile%20Views"  />
 </div>
 
+<div align="center">
 ---
 ## About me
 
